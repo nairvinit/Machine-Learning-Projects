@@ -1,9 +1,7 @@
 # my-mL-journey
 
-Home projects for the machine learning enthusiast in me. 
+Home projects in machine learning and data analytics.
 
-I made these projects between June 2018 and September 2018.
-
-All these projects have been uploaded directly to Github and were coded in python using the Anaconda framework.
+All works have been done between June 2018 to September 2018 using python 3 on Anaconda framework.
 
 The datasets were obtained online from superdatascience.com
